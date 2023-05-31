@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3585775 */
+  src: url('iconfont.woff2?t=1660304335818') format('woff2'),
+       url('iconfont.woff?t=1660304335818') format('woff'),
+       url('iconfont.ttf?t=1660304335818') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shizhong:before {
+  content: "\e74f";
+}
+
+.icon-jushoucang:before {
+  content: "\e643";
+}
+
+.icon-pingjia:before {
+  content: "\e641";
+}
+
+.icon-fuzhi:before {
+  content: "\e600";
+}
+
+.icon-dingdan:before {
+  content: "\e645";
+}
+
+.icon-24gl-headphones:before {
+  content: "\ea09";
+}
+
+.icon-weixin:before {
+  content: "\e8bb";
+}
+
+.icon-youhuijuan:before {
+  content: "\e621";
+}
+
+.icon-dingdangdaizhimaxinyongshouquan:before {
+  content: "\e6b4";
+}
+
+.icon-rent:before {
+  content: "\e608";
+}
+
+.icon-zufang:before {
+  content: "\e611";
+}
+
+.icon-fangzi:before {
+  content: "\e8ff";
+}
+
+.icon-wj-zd:before {
+  content: "\e736";
+}
+
+.icon-hetong:before {
+  content: "\e6c8";
+}
+

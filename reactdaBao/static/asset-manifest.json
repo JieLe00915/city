@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15f58dd5.css",
+    "main.js": "/static/js/main.f7257d38.js",
+    "static/media/banner3.png": "/static/media/banner3.43885772202fa338e965.png",
+    "static/media/banner1.png": "/static/media/banner1.0b2027b78761302c408e.png",
+    "static/media/banner2.png": "/static/media/banner2.94e56fd656dd6cd0c9e7.png",
+    "static/media/banner4.png": "/static/media/banner4.acb385dd4e67567a669b.png",
+    "static/media/banner5.png": "/static/media/banner5.ba17e9e36c8e93eebea6.png",
+    "static/media/01.png": "/static/media/01.f4b5216a27bf275fd4c0.png",
+    "static/media/icomoon.svg?6394vp": "/static/media/icomoon.bc1fc38785af63f2c481.svg",
+    "static/media/iconfont.svg?t=1538475568704": "/static/media/iconfont.dafb209522d21e5d3683.svg",
+    "static/media/iconfont.ttf?t=1660304335818": "/static/media/iconfont.83ae2cc65b024b1337ba.ttf",
+    "static/media/iconfont.woff?t=1660304335818": "/static/media/iconfont.7ead3efd24eeac8e82d7.woff",
+    "static/media/icomoon.eot?6394vp": "/static/media/icomoon.d01697a1567af20e0d8f.eot",
+    "static/media/icomoon.woff?6394vp": "/static/media/icomoon.f75ed5e4fcecfe71fb77.woff",
+    "static/media/icomoon.ttf?6394vp": "/static/media/icomoon.54be2e4b799b715527c8.ttf",
+    "static/media/iconfont.eot?t=1538475568704": "/static/media/iconfont.b6c3a76c38f9c66fcabb.eot",
+    "static/media/iconfont.woff2?t=1660304335818": "/static/media/iconfont.625b1fe38832010e642c.woff2",
+    "static/media/iconfont.ttf?t=1538475568704": "/static/media/iconfont.69e406b02dc707c307b5.ttf",
+    "index.html": "/index.html",
+    "main.15f58dd5.css.map": "/static/css/main.15f58dd5.css.map",
+    "main.f7257d38.js.map": "/static/js/main.f7257d38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f58dd5.css",
+    "static/js/main.f7257d38.js"
+  ]
+}
